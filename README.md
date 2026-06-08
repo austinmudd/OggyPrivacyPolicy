@@ -1,6 +1,6 @@
 # Privacy Policy for Oggy
 
-**Effective date:** [TODO: insert date you publish this — e.g., May 1, 2026]
+**Effective date:** June 8, 2026
 
 ## Plain-English summary
 
