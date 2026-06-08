@@ -77,18 +77,3 @@ If we ever change this policy in a way that materially affects what data Oggy st
 Questions, concerns, or requests:
 
 **Email:** OggyAppTeam@gmail.com
-
----
-
-## Notes for whoever's hosting this
-
-- Update the "Effective date" at the top before publishing.
-- The URL of the hosted version goes in:
-  - `.env` → `EXPO_PUBLIC_PRIVACY_POLICY_URL`
-  - Play Console → App content → Privacy policy
-- Free hosting options:
-  - **GitHub Pages** — push this Markdown file to a public repo with a `_config.yml`, get `https://username.github.io/oggy-legal/privacy-policy.html` for free, edit anytime
-  - **Vercel** — drop into a Next.js project, deploy in 60 seconds with a custom subdomain
-  - **Notion** — paste contents into a public Notion page, set to "Share to web"
-  - **Google Sites** — free, no code, looks fine
-- Whichever you pick: keep the URL stable. Changing it later requires updating Play Console + the app, which is mildly annoying.
