@@ -4,7 +4,7 @@
 
 ## Plain-English summary
 
-Oggy is built to respect your privacy. The app stores everything you create — buttons, photos, settings, your PIN — locally on your device. It does not have a server, does not collect analytics, does not show ads, and does not share your data with anyone. The only third party involved is the in-app purchase system (Google Play Billing via RevenueCat) used if you choose to buy the optional unlock.
+Oggy is built to respect your privacy. The app stores everything you create — buttons, photos, settings, your PIN — locally on your device. It does not have a server, does not collect analytics, does not show ads, and does not share your data with anyone. The only third party involved is the in-app purchase system (Google Play Billing via RevenueCat) used if you choose to subscribe to the optional unlock.
 
 If you have any questions about this policy, email **OggyAppTeam@gmail.com**.
 
@@ -47,10 +47,10 @@ Oggy does not use the microphone or perform speech recognition. The text-to-spee
 
 ## In-app purchases
 
-Oggy offers a one-time in-app purchase ("Unlock full access") that removes the 12-button limit and grants access to future paid features. This purchase is processed by:
+Oggy offers an optional annual subscription ("Unlock full access," $9.99/year) that removes the 12-button limit and grants access to future paid features. This subscription is processed by:
 
 - **Google Play Billing** — operated by Google. See Google's privacy policy at https://policies.google.com/privacy
-- **RevenueCat** — used to verify and restore purchases across devices. RevenueCat receives a non-personal user identifier and the purchase event. See RevenueCat's privacy policy at https://www.revenuecat.com/privacy
+- **RevenueCat** — used to verify and restore your purchases and subscription status across devices. RevenueCat receives a non-personal user identifier and the purchase event. See RevenueCat's privacy policy at https://www.revenuecat.com/privacy
 
 We do not see your payment method, billing address, or any personally identifying purchase information.
 
